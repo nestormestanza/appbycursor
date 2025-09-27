@@ -1,0 +1,19 @@
+NYC FOR-HIRE VEHICLES (FHV) ACTIVE DATASET ANALYSIS REPORT
+============================================================
+Generated on: 2025-09-27 06:28:55
+
+BASIC STATISTICS:
+Total Vehicles: 2,000
+Active Vehicles: 2,000
+Unique Bases: 200
+Unique Owners: 1,832
+Last Updated: 2025-09-26 00:00:00
+
+BASE TYPES:
+  BLACK-CAR: 1,792
+  LIVERY: 205
+  LUXURY: 3
+
+WHEELCHAIR ACCESSIBILITY:
+  PILOT: 477
+  WAV: 97
